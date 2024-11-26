@@ -18,3 +18,5 @@ Par groupes de 3 :
 - Pour chacun des 3 : télécharger les deux autres branches de vos collaborateurs
 - Mettre en place une pull request entre la branche de l'élève 1 et de l'élève deux
 - Idem entre l'élève 1 et main
+
+OUI
